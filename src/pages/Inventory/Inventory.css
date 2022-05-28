@@ -1,0 +1,30 @@
+.item{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+}
+
+.update-btn{
+    border: none;
+    padding: 3px;
+    margin-left:50px;
+    border-radius: 5px;
+    border: 1px solid  #0B5ED7;
+}
+
+.input-btn{
+    border: none;
+    border: 1px solid  #0B5ED7;
+}
+
+@media only screen and (max-width:600px) {
+    .item{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media only screen and (min-width: 577px) and (max-width: 992px) {
+    .item{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

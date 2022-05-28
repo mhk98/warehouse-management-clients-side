@@ -1,0 +1,8 @@
+.notfound p{
+    color: white;
+    font-size: 100px;
+    background-color: red;
+    height: 600px;
+    padding-top: 250px;
+
+}

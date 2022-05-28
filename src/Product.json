@@ -1,0 +1,182 @@
+[
+    {
+
+        "name": "Acura",
+	"img": "https://i.ibb.co/mSpJwJx/Acura.jpg",
+        "description": "Our future cars are designed and engineered with Acura precision for alluring style and sport performance that truly breaks the mold.",
+        "price": 5000,
+	"quantity": 200,
+	"supplier": "Stefan Robert"
+    },
+
+    {
+        
+        "name": "Alfa Romeo",
+	"img": "https://i.ibb.co/XY6tdHD/Alfa-Romeo.jpg",
+        "description": "Enter the Alfa Romeo world, where driving passion, fine design and exciting feelings inspire long since the lovers of this amazing & unique Italian brand.",
+        "price": 4000,
+	"quantity": 100,
+	"supplier": "Adam Karim"
+    },
+
+    {
+        
+        "name": "Audi",
+	"img": "https://i.ibb.co/f81WfwM/Audi.jpg",
+        "description": "Audi is one of today's most successful luxury brands, having effectively leveraged its minimalist styling and Quattro all-wheel-drive system.",
+        "price": 3000,
+	"quantity": 200,
+	"supplier": "Faraz Karim"
+    },
+
+    {
+        
+        "name": "Cadillac",
+	"img": "https://i.ibb.co/XXGRKXW/Cadillac.jpg",
+        "description": "The Cadillac Motor Car Division is a division of the American automobile manufacturer General Motors Company that designs and builds luxury vehicles. ",
+        "price": 5000,
+	"quantity": 100,
+	"supplier": "Adam Smith"
+    },
+
+    {
+        
+        "name": "Dodge",
+	"img": "https://i.ibb.co/rcY0LbL/Dodge.jpg",
+        "description": "Domestic. Not Domesticated. Dodge vehicles are bred for performance. Explore the full Dodge lineup, inventory, incentives, dealership information & more.",
+        "price": 2200,
+	"quantity": 100,
+	"supplier": "Stefan Kabir"
+    },
+
+    {
+        
+        "name": "Ferrari",
+	"img": "https://i.ibb.co/5k1qN84/Ferrari.jpg",
+        "description": "Ferrari - All the official contents of the Maranello based carmaker: all the cars in the range and the great historic cars, the official Ferrari dealers.",
+        "price": 2400,
+	"quantity": 300,
+	"supplier": "Javed Hasan"
+    },
+
+    {
+        
+        "name": "Fiat",
+	"img": "https://i.ibb.co/xH2q79C/Fiat.jpg",
+        "description": "Fiat S.p.A., or Fabbrica Italiana Automobili Torino, was an Italian holding company whose original and core activities were in the automotive industry .",
+        "price": 4530,
+	"quantity": 200,
+	"supplier": "Azam Ali"
+    },
+
+    {
+        
+        "name": "Ford",
+	"img": "https://i.ibb.co/T13bLGm/Ford.jpg",
+        "description": "Find your perfect Ford! Browse the new Ford model lineup of cars, trucks, crossovers and SUVs. View model overviews, compare prices, features and more here!",
+        "price": 3300,
+	"quantity": 156,
+	"supplier": "Akbar Ali"
+    },
+
+    {
+        
+        "name": "Honda",
+	"img": "https://i.ibb.co/dD4VY7z/Honda.jpg",
+        "description": "Explore an innovative line of quality products from American Honda Motor Company. Find the latest news and information on Honda and Acura brand products.",
+        "price": 3300,
+	"quantity": 253,
+	"supplier": "Tamim Khan"
+    },
+
+    {
+        
+        "name": "Hyundai",
+	"img": "https://i.ibb.co/RP8pG8C/Hyundai.jpg",
+        "description": "Hyundai Motor Company, often abbreviated to Hyundai Motors and commonly known as Hyundai, is a South Korean multinational automotive manufacturer.",
+        "price": 4500,
+	"quantity": 155,
+	"supplier": "Sakib Khan"
+    },
+
+    {
+        
+        "name": "Jaguar",
+	"img": "https://i.ibb.co/ZRrx3VV/Jaguar.jpg",
+        "description": "Jaguar Land Rover will reimagine the future of modern luxury by design through its two distinct, British brands.",
+        "price": 5000,
+	"quantity": 200,
+	"supplier": "Saifullah Khan"
+    },
+
+    {
+        
+        "name": "Jeep",
+	"img": "https://i.ibb.co/7jqz3Sp/Jeep.jpg",
+        "description": "Nothing says freedom like taking the 2022 Jeep Wrangler down a deserted trail with the top rolled back and adventure awaiting around the bend.",
+        "price": 6300,
+	"quantity": 200,
+	"supplier": "Robert Starc"
+    },
+
+    {
+        
+        "name": "Kia",
+	"img": "https://i.ibb.co/BLvtpGF/Kia.jpg",
+        "description": "Kia America, Inc. provides a wide range of cars that meet your lifestyle. Browse our luxury or sports sedans, hybrids, electric cars, SUVs & hatchbacks.",
+        "price": 5000,
+	"quantity": 200,
+	"supplier": "Stefan Robert"
+    },
+
+    {
+        
+        "name": "Land Rover",
+	"img": "https://i.ibb.co/TwpV2Rw/Land-Rover.jpg",
+        "description": "Welcome to Land Rover's official website. Experience the thrill of driving off-road and discover our latest award-winning SUV vehicles.",
+        "price": 3200,
+	"quantity": 150,
+	"supplier": "Salim Uddin"
+    },
+
+    {
+        
+        "name": "Lexus",
+	"img": "https://i.ibb.co/JcYtdcb/Lexus.jpg",
+        "description": "Welcome to Lexus; official site. Explore the line of Lexus luxury sedans, SUVs, hybrids, performance cars and accessories, or find a Lexus dealer near you.",
+        "price": 4500,
+	"quantity": 200,
+	"supplier": "Rafi Uddin"
+    },
+
+    {
+        
+        "name": "Mitsubishi",
+	"img": "https://i.ibb.co/9yDFPCW/Mitsubishi.jpg",
+        "description": "Mitsubishi Corporation (MC) is a global integrated business enterprise that develops and operates businesses together with its offices and subsidiaries.",
+        "price": 5000,
+	"quantity": 200,
+	"supplier": "Abdul Awal"
+    },
+
+    {
+        
+        "name": "Nissan",
+	"img": "https://i.ibb.co/Wk4kLKG/Nissan.jpg",
+        "description": "Our Company. Nissan creates vehicles and technologies that enrich people's lives. · Sustainability. Nissan strives to ensure sustainable social development",
+        "price": 6000,
+	"quantity": 100,
+	"supplier": "Rakib Hasan"
+    },
+
+    {
+        
+        "name": "Toyota",
+	"img": "https://i.ibb.co/KbKT2JM/Toyota.jpg",
+        "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan.",
+        "price": 3500,
+	"quantity": 200,
+	"supplier": "Al Habib"
+    }
+    
+]
